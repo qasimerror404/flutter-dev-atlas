@@ -1,17 +1,26 @@
-# explorer_app
+# Flutter Dev Atlas
 
-A new Flutter project.
+A production-focused Flutter component explorer and engineering knowledge base.
 
-## Getting Started
+Flutter Dev Atlas provides reusable UI components, real-world architecture patterns,
+and engineering articles based on production experience.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+• Component explorer application
+• Copy-paste Flutter UI components
+• Production architecture patterns
+• Performance tips
+• Engineering articles
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Project Structure
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+app/ → Flutter explorer application  
+library/ → reusable components  
+docs/ → engineering articles  
+examples/ → real-world implementations
+
+## Run the Explorer
+
+cd app/explorer_app
+flutter run
